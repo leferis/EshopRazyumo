@@ -1,0 +1,2 @@
+node index.js prisijungimas prie servako bunant api foldery (cd);
+http-server bunant foldery page; (cd)
